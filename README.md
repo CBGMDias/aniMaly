@@ -1,0 +1,2 @@
+# aniMaly
+Dicionário de animais.
